@@ -1,12 +1,12 @@
 import './App.css'
+import Login from './component/login'
 
 function App() {
   
 
   return (
    <div>
-    <h1>Abinash Somen</h1>
-    <p>Rendering the root file</p>
+    <Login/>
    </div>
   )
 }
